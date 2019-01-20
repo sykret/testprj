@@ -1,3 +1,4 @@
+# test
 test:
 	python rctest.py rc.sp
 test2:
